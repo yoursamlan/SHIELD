@@ -1,5 +1,5 @@
 # ⛨ SHIELD
-#### a File Encryption Software with 2-Factor Authentication
+ a File Encryption Software with 2-Factor Authentication
 
 ---
 ### Motivation behind SHIELD
