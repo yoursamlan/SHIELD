@@ -8,4 +8,4 @@
 ### SHIELD in action
 - In this example, we will see how SHIELD works...
 1. We will apply SHIELD in the folder below:
-![FolderBefore](https://github.com/yoursamlan/SHIELD/blob/main/Demo/Folder.PNG?raw=true)
+![FolderBefore](./Demo/Folder.PNG?raw=true)
