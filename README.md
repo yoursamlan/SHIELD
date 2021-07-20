@@ -7,5 +7,10 @@
 
 ### SHIELD in action
 - In this example, we will see how SHIELD works...
-1. We will apply SHIELD in the folder below:
+  We will apply SHIELD in the folder below:
 ![FolderBefore](./Demo/Folder.PNG?raw=true)
+
+1. First, fire up the SHIELD using 
+```
+python3 SHIELD1.0.py
+```
