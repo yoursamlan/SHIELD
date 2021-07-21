@@ -22,5 +22,6 @@ A SHIELD menu will appear:
 2. Now to ENCRYPT a file, we'll choose 1 and then a list of the files of that directory will appear.
 3. After thet, to select our desired file, we will choose the list index from the list. 
 4. After selecting the file, we have to put a password. The console will look something like this after this step.
+
 ![pass](https://user-images.githubusercontent.com/33586885/126453415-18a1c026-ec9d-4a28-8068-e60df3878450.png)
 5. 
