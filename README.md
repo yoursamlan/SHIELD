@@ -14,15 +14,17 @@
 
 #### ENCRYPTION:
 
-  We will apply SHIELD in the folder below:
+  We will apply SHIELD encryption in this folder:
   
 <img src="./Demo/Folder.PNG?raw=true" alt="folder before" width="50%">
 
-1. First, fire up the SHIELD using 
+1. First, fire up the SHIELD using ...
+
 ```
 python3 SHIELD1.0.py
 ```
-A SHIELD menu will appear:
+
+ A SHIELD menu will appear:
 
 <img src="./Demo/S1.PNG?raw=true" alt="Menu" width="50%">
 
