@@ -43,7 +43,7 @@ A SHIELD menu will appear:
 
 After successful authentication, SHIELD will encrypt the file in .ef2 format using Multi-Layer Encryption.
 
-<img src="https://user-images.githubusercontent.com/33586885/126456821-d0a78413-cab3-4726-b384-31aac7a0b696.png" alt="Folder After" width="40%">
+<img src="https://user-images.githubusercontent.com/33586885/126456821-d0a78413-cab3-4726-b384-31aac7a0b696.png" alt="Folder After" width="50%">
 
 
 #### DECRYPTION:
@@ -55,7 +55,7 @@ Now, we will decrypt our .ef2 file using SHIELD...
 3. Enter your password.
 4. Now enter the authentication code from the authenticator.
 
-![Decrypt](https://user-images.githubusercontent.com/33586885/126458333-2825d6fd-c995-4267-93a0-43d7e2db7cec.png)
+<img src="https://user-images.githubusercontent.com/33586885/126458333-2825d6fd-c995-4267-93a0-43d7e2db7cec.png" alt="Decryption" width="50%">
 
 Voila, Your file is now decrypted.
 
