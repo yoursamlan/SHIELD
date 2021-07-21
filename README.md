@@ -12,7 +12,7 @@
 
   We will apply SHIELD in the folder below:
   
-![FolderBefore](./Demo/Folder.PNG?raw=true)
+<img src="./Demo/Folder.PNG?raw=true" alt="folder before" width="50%">
 
 1. First, fire up the SHIELD using 
 ```
