@@ -31,19 +31,19 @@ A SHIELD menu will appear:
 
 5. After entering the password, SHIELD will generate a TOTP key and its corresponding QR CODE like this:
 
-<img src="https://user-images.githubusercontent.com/33586885/126454632-364f29f1-ed8a-411b-a67f-92f607b30a55.png" alt="QR" width="40%">
+<img src="https://user-images.githubusercontent.com/33586885/126454632-364f29f1-ed8a-411b-a67f-92f607b30a55.png" alt="QR" width="60%">
 
 6. We have to Scan the QR CODE using any authenticator app. For this Example, I'll use Google Authenticator:
 
-<img src="https://user-images.githubusercontent.com/33586885/126455895-1ee2ecef-6126-4191-be80-88e378b067ab.png" alt="GoogleAuth" width="40%">
+<img src="https://user-images.githubusercontent.com/33586885/126455895-1ee2ecef-6126-4191-be80-88e378b067ab.png" alt="GoogleAuth" width="50%">
 
 7. We have to enter the authentication code from the Google Authenticator to SHIELD first time to authenticate.
 
-![authsuccess](https://user-images.githubusercontent.com/33586885/126456354-48b67f2a-0cbc-4d1d-9eb2-01f3eb08264d.png)
+<img src="https://user-images.githubusercontent.com/33586885/126456354-48b67f2a-0cbc-4d1d-9eb2-01f3eb08264d.png" alt="GoogleAuthSuccess" width="50%">
 
 After successful authentication, SHIELD will encrypt the file in .ef2 format using Multi-Layer Encryption.
 
-![Folder After](https://user-images.githubusercontent.com/33586885/126456821-d0a78413-cab3-4726-b384-31aac7a0b696.png)
+<img src="https://user-images.githubusercontent.com/33586885/126456821-d0a78413-cab3-4726-b384-31aac7a0b696.png" alt="Folder After" width="50%">
 
 
 #### DECRYPTION:
