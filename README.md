@@ -7,6 +7,9 @@
 
 ### SHIELD in action
 - In this example, we will see how SHIELD works...
+
+#### ENCRYPTION:
+
   We will apply SHIELD in the folder below:
   
 ![FolderBefore](./Demo/Folder.PNG?raw=true)
@@ -42,6 +45,7 @@ After successful authentication, SHIELD will encrypt the file in .ef2 format usi
 ![Folder After](https://user-images.githubusercontent.com/33586885/126456821-d0a78413-cab3-4726-b384-31aac7a0b696.png)
 
 
+#### DECRYPTION:
 
 
 
