@@ -31,4 +31,18 @@ A SHIELD menu will appear:
 
 6. We have to Scan the QR CODE using any authenticator app. For this Example, I'll use Google Authenticator:
 
-![image](https://user-images.githubusercontent.com/33586885/126455895-1ee2ecef-6126-4191-be80-88e378b067ab.png)
+![googauth](https://user-images.githubusercontent.com/33586885/126455895-1ee2ecef-6126-4191-be80-88e378b067ab.png)
+
+7. We have to enter the authentication code from the Google Authenticator to SHIELD first time to authenticate.
+
+![authsuccess](https://user-images.githubusercontent.com/33586885/126456354-48b67f2a-0cbc-4d1d-9eb2-01f3eb08264d.png)
+
+After successful authentication, SHIELD will encrypt the file in .ef2 format using Multi-Layer Encryption.
+
+![Folder After](https://user-images.githubusercontent.com/33586885/126456821-d0a78413-cab3-4726-b384-31aac7a0b696.png)
+
+
+
+
+
+
