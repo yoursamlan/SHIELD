@@ -24,4 +24,11 @@ A SHIELD menu will appear:
 4. After selecting the file, we have to put a password. The console will look something like this after this step.
 
 ![pass](https://user-images.githubusercontent.com/33586885/126453415-18a1c026-ec9d-4a28-8068-e60df3878450.png)
-5. 
+
+5. After entering the password, SHIELD will generate a TOTP key and its corresponding QR CODE like this:
+
+![QR](https://user-images.githubusercontent.com/33586885/126454632-364f29f1-ed8a-411b-a67f-92f607b30a55.png)
+
+6. We have to Scan the QR CODE using any authenticator app. For this Example, I'll use Google Authenticator:
+
+![image](https://user-images.githubusercontent.com/33586885/126455895-1ee2ecef-6126-4191-be80-88e378b067ab.png)
