@@ -31,11 +31,11 @@ A SHIELD menu will appear:
 
 5. After entering the password, SHIELD will generate a TOTP key and its corresponding QR CODE like this:
 
-![QR](https://user-images.githubusercontent.com/33586885/126454632-364f29f1-ed8a-411b-a67f-92f607b30a55.png)
+<img src="https://user-images.githubusercontent.com/33586885/126454632-364f29f1-ed8a-411b-a67f-92f607b30a55.png" alt="QR" width="40%">
 
 6. We have to Scan the QR CODE using any authenticator app. For this Example, I'll use Google Authenticator:
 
-![googauth](https://user-images.githubusercontent.com/33586885/126455895-1ee2ecef-6126-4191-be80-88e378b067ab.png)
+<img src="https://user-images.githubusercontent.com/33586885/126455895-1ee2ecef-6126-4191-be80-88e378b067ab.png" alt="GoogleAuth" width="40%">
 
 7. We have to enter the authentication code from the Google Authenticator to SHIELD first time to authenticate.
 
