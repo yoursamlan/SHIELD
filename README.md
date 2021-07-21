@@ -47,6 +47,16 @@ After successful authentication, SHIELD will encrypt the file in .ef2 format usi
 
 #### DECRYPTION:
 
+Now, we will decrypt our .ef2 file using SHIELD...
+
+1. First Choose 2 From the SHIELD Menu to DECRYPT a file.
+2. Now, select the .ef2 file using the file index mentioned above.
+3. Enter your password.
+4. Now enter the authentication code from the authenticator.
+
+![Decrypt](https://user-images.githubusercontent.com/33586885/126458333-2825d6fd-c995-4267-93a0-43d7e2db7cec.png)
+
+Voila, Your file is now decrypted.
 
 
 
